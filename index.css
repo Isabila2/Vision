@@ -261,20 +261,125 @@ html{
   margin-left: 290px;
 }
 
+#h2{
+  color: white;
+  font-family: MATE SC;
+  font-size: 120px;
+  justify-content: center;
+  margin-left: 200px;
+}
+
 #p1{
   color: white;
   font-size: 30px;
   margin-left: 100px;
 }
 
+
+#p2{
+  color: white;
+  font-size: 30px;
+  margin-left: 350px;
+  margin-top: -450px;
+}
+
 #p{
   color: white;
   font-size: 30px;
-  margin-left: 70px;
+  margin-left: 73px;
 }
 
 #olho{
-  width: 900px;
+  width: 930px;
   height: 700px;
   margin-left: 300px;
+}
+
+#note{
+  margin-left: -60px;
+}
+
+.botao1 {
+  background-color: #dfc55100;
+  border-radius: 10px;
+  border-color: #ffffff00;
+  height: 100px;
+  width: 300px;
+  color: white;
+  font-family: Mate SC;
+  font-size: 60px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+}
+
+.botao1:hover {
+  background-color: #d9c89600;
+  box-shadow: 5px 2px #dfc55100;
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+.botao2 {
+  background-color: #dfc55100;
+  border-radius: 10px;
+  border-color: #ffffff00;
+  height: 100px;
+  width: 300px;
+  font-family: Mate SC;
+  font-size: 60px;
+  color: white;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  
+}
+
+.botao2:hover {
+  background-color: #d9c89600;
+  box-shadow: 5px 2px #dfc55100;
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+.botao3 {
+  background-color: #dfc55100;
+  border-radius: 10px;
+  border-color: #ffffff00;
+  height: 100px;
+  width: 300px;
+  font-family: Mate SC;
+  font-size: 60px;
+  color: white;
+  margin-bottom: 20px;
+  margin-left: 350px;s
+ 
+}
+
+.botao3:hover {
+ 
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+
+.botao4 {
+  background-color: #dfc55100;
+  border-radius: 10px;
+  border-color: #ffffff00;
+  height: 100px;
+  width: 300px;
+  font-family: Mate SC;
+  font-size: 60px;
+  color: white;
+  margin-bottom: 20px;
+  margin-left: 350px;s
+ 
+}
+
+.botao4:hover {
+  
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+
+.meio{
+  margin-left: 200px;
+  margin-top: 80px;
+ 
 }
