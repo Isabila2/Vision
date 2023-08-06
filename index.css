@@ -239,7 +239,7 @@ html{
 }
 
 .otica{
-  background-color: #944e2ece ;
+  background-color: #944e2e ;
   height: 1800px;
   width: 85%;
   margin-left: 150px;
@@ -247,8 +247,9 @@ html{
 }
 
 .defeitos{
-  background-color: #D9C896 ;
-  height: 2000px;
+  background-color:  #DFC451;
+  ;
+  height: 1150px;
   width: 85%;
   margin-left: 150px;
 }
@@ -279,8 +280,9 @@ html{
 #p2{
   color: white;
   font-size: 30px;
-  margin-left: 350px;
+  margin-left: 360px;
   margin-top: -450px;
+  margin-bottom: 10px;
 }
 
 #p{
@@ -299,17 +301,35 @@ html{
   margin-left: -60px;
 }
 
-.botao1 {
-  background-color: #dfc55100;
+.botao11 {
+  background-color: #BF935E;
   border-radius: 10px;
   border-color: #ffffff00;
-  height: 100px;
-  width: 300px;
+  height: 80px;
+  width: 230px;
   color: white;
   font-family: Mate SC;
-  font-size: 60px;
-  margin-bottom: 20px;
-  margin-left: 350px;
+  font-size: 40px;
+  margin-left: 390px;
+  margin-top: ;
+}
+
+.botao11:hover {
+  background-color: #d9c89600;
+  box-shadow: 5px 2px #dfc55100;
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+.botao1 {
+  background-color: #BF935E;
+  border-radius: 10px;
+  border-color: #ffffff00;
+  height: 80px;
+  width: 230px;
+  color: white;
+  font-family: Mate SC;
+  font-size: 40px;
+  margin-left: 30px;
 }
 
 .botao1:hover {
@@ -318,68 +338,67 @@ html{
   transform: scale(1.1);
   transition: all 0.5s;
 }
-.botao2 {
-  background-color: #dfc55100;
-  border-radius: 10px;
-  border-color: #ffffff00;
-  height: 100px;
-  width: 300px;
-  font-family: Mate SC;
-  font-size: 60px;
-  color: white;
-  margin-bottom: 20px;
-  margin-left: 350px;
-  
-}
 
-.botao2:hover {
-  background-color: #d9c89600;
-  box-shadow: 5px 2px #dfc55100;
-  transform: scale(1.1);
-  transition: all 0.5s;
-}
-.botao3 {
-  background-color: #dfc55100;
-  border-radius: 10px;
-  border-color: #ffffff00;
-  height: 100px;
-  width: 300px;
-  font-family: Mate SC;
-  font-size: 60px;
-  color: white;
-  margin-bottom: 20px;
-  margin-left: 350px;s
- 
-}
-
-.botao3:hover {
- 
-  transform: scale(1.1);
-  transition: all 0.5s;
-}
-
-.botao4 {
-  background-color: #dfc55100;
-  border-radius: 10px;
-  border-color: #ffffff00;
-  height: 100px;
-  width: 300px;
-  font-family: Mate SC;
-  font-size: 60px;
-  color: white;
-  margin-bottom: 20px;
-  margin-left: 350px;s
- 
-}
-
-.botao4:hover {
-  
-  transform: scale(1.1);
-  transition: all 0.5s;
-}
 
 .meio{
   margin-left: 200px;
   margin-top: 80px;
+ 
+}
+
+#h22{
+  color: white;
+  font-family: MATE SC;
+  font-size: 40px;
+  justify-content: center;
+  margin-left: 450px;
+}
+#h21{
+  color: white;
+  font-family: MATE SC;
+  font-size: 40px;
+  justify-content: center;
+  margin-left: 670px;
+  margin-top: -50px;
+}
+#h20{
+  color: white;
+  font-family: MATE SC;
+  font-size: 40px;
+  justify-content: center;
+  margin-left: 910px;
+  margin-top: -50px;
+}
+
+#h19{
+  color: white;
+  font-family: MATE SC;
+  font-size: 40px;
+  justify-content: center;
+  margin-left: 1188px;
+  margin-top: -50px;
+}
+
+footer{
+background-color: #BF935E;
+  width: 100%;
+  margin-top: 200px;
+  height: 300px;
+}
+
+
+#pp{
+  color: white;
+  font-size: 28px;
+  margin-left: 73px;
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#p11{
+  color: white;
+  font-size: 30px;
+  margin-left: 100px;
  
 }
