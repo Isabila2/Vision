@@ -47,6 +47,7 @@
 .topico {
   padding: 0px;
   margin-bottom: 0px;
+  
 }
 
 .logincerto {
@@ -104,7 +105,7 @@ header {
   position: fixed;
   top: 0;
   background-color: #DFC451;
-  z-index: 1;
+  z-index: 2;
   width: 100%;
   height: 10%;
  
@@ -259,7 +260,10 @@ html{
   font-family: MATE SC;
   font-size: 120px;
   justify-content: center;
-  margin-left: 290px;
+  margin-left: 45px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
 }
 
 #h2{
@@ -311,7 +315,7 @@ html{
   font-family: Mate SC;
   font-size: 40px;
   margin-left: 390px;
-  margin-top: ;
+  
 }
 
 .botao11:hover {
