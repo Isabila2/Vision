@@ -119,6 +119,79 @@
    background-color: #F6EEE5;
   }
   
+.comeco{
+    background-color: #BF935E ;
+    height: 600px;
+    width: 85%;
+    margin-left: 150px;
+    margin-top: 130px;
+}
+
+#imagemmeio{
+    width: 1400px;
+    height: 450px;
+    margin-left: 80px;
+}
+#titulo{
+   margin-left: 150px;
+   margin-top: 60px;
+}
+
+.oq{
+    background-color: #D9C896;
+    width: 85%;
+    height: 770px;
+    margin-left: 150px;
+}
+
+#h11{
+    color: white;
+    font-size: 60px;
+    margin-left: 390px;
+    margin-top: 20px;
+}
+
+#astig1{
+    margin-left: 400px;
+    width: 700px;
+    
+}
+
+
+
+#p1{
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+  }
+  
+  
+  #p2{
+    color: white;
+    font-size: 30px;
+    margin-left: 360px;
+    margin-top: -450px;
+    margin-bottom: 10px;
+  }
+  
+  #p{
+    color: white;
+    font-size: 30px;
+    margin-left: 73px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   footer{
